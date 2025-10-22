@@ -17,7 +17,7 @@
         <div class="row h-100 m-0">
             <div class="card w-25 my-auto mx-auto">
                 <div class="card-header bg-white border-0 py-3">
-                    <h1 class="text-center">REGISTER</h1>
+                    <h1 class="text-center">REGISTER online</h1>
                 </div>
                 <div class="card-body">
                     <form action="../actions/register.php" method="post">
